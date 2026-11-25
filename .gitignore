@@ -5,3 +5,4 @@ game-files/
 proprietary/
 *.nsp
 *.xci
+apk_extracted/
