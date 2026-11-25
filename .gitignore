@@ -1,0 +1,7 @@
+*.apk
+*.aab
+*.so
+game-files/
+proprietary/
+*.nsp
+*.xci
